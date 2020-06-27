@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestMVPGeekBrains</string>
+    <string name="text_hint_edit">Введите текст</string>
+    <string name="text_btn_add">Добавить</string>
+</resources>
